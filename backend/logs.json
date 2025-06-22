@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-06-17T01:00:30.966Z",
+    "location": "Gostivar",
+    "type": "Zjarrfikes"
+  },
+  {
+    "timestamp": "2025-06-17T01:49:32.168Z",
+    "location": "Kumanov",
+    "type": "Meek"
+  },
+  {
+    "timestamp": "2025-06-17T01:50:04.408Z",
+    "location": "Kumanov",
+    "type": "Mjek"
+  },
+  {
+    "timestamp": "2025-06-17T17:20:24.432Z",
+    "location": "Tetove",
+    "type": "ndjehem nen presion"
+  },
+  {
+    "timestamp": "2025-06-17T17:55:03.465Z",
+    "location": "Shkup",
+    "type": "Stres"
+  },
+  {
+    "timestamp": "2025-06-17T17:55:42.372Z",
+    "location": "Skopje",
+    "type": "Stres"
+  },
+  {
+    "timestamp": "2025-06-17T21:58:41.384Z"
+  },
+  {
+    "timestamp": "2025-06-17T22:26:15.493Z"
+  },
+  {
+    "timestamp": "2025-06-18T11:32:12.632Z",
+    "description": "e stresuar",
+    "feeling": "",
+    "category": ""
+  },
+  {
+    "timestamp": "2025-06-18T13:38:58.181Z",
+    "description": "e shqetësuar",
+    "feeling": "",
+    "category": ""
+  },
+  {
+    "timestamp": "2025-06-18T13:54:51.356Z",
+    "description": "e frikësuar",
+    "feeling": "",
+    "category": ""
+  },
+  {
+    "timestamp": "2025-06-18T13:57:13.048Z",
+    "description": "stres",
+    "feeling": "",
+    "category": ""
+  }
+]
