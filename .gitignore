@@ -11,8 +11,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Firebase
-*-firebase-adminsdk-*.json
-!/backend/she4she-776f9-firebase-adminsdk-fbsvc-40321c4f8e.json
+*.json
+!/backend/package.json
+!/backend/package-lock.json
 
 # Environment variables
 .env
