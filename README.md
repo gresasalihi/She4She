@@ -82,7 +82,8 @@ Ky projekt është rezultat i bashkëpunimit të ngushtë dhe besimit të ndërs
 
 ## 📢 Shënim i Rëndësishëm
 
-> Ky projekt, i ndërtuar nga Zehra Bajrami dhe Gresa Salihi, është realizuar për qëllime edukative dhe demonstrimi, si pjesë e një detyre universitare për lëndën Distributed Systems.
+> Ky projekt është ndërtuar për qëllime edukative dhe demonstrimi, si pjesë e një detyre universitare për lëndën **Distributed Systems**.
+
 ---
 
 ## 💖 Falënderime
